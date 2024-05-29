@@ -1,0 +1,20 @@
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\bin\Debug\Video Game.exe.config
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\bin\Debug\Video Game.exe
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\bin\Debug\Video Game.pdb
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video Game.csproj.AssemblyReference.cache
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video_Game.Form1.resources
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video_Game.Properties.Resources.resources
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video Game.csproj.GenerateResource.cache
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video Game.csproj.CoreCompileInputs.cache
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video Game.exe
+C:\Users\57301\Documents\Proyectos\PazYSalvoApp\Video Game\Video Game\obj\Debug\Video Game.pdb
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\bin\Debug\Video Game.exe.config
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\bin\Debug\Video Game.exe
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\bin\Debug\Video Game.pdb
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video Game.csproj.AssemblyReference.cache
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video_Game.Form1.resources
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video_Game.Properties.Resources.resources
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video Game.csproj.GenerateResource.cache
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video Game.csproj.CoreCompileInputs.cache
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video Game.exe
+C:\Users\57301\Documents\Proyectos\Video Game\Video Game\obj\Debug\Video Game.pdb
