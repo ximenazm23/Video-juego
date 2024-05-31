@@ -1,0 +1,43 @@
+-En Visual Studio crear un nuevo proyecto de Windows Forms App(.NET Framework).
+-Se coloca un label que servira mas adelante para ser la barra desplazadora.
+-Colocamos un score para el tiempo y otro label que sera el que destruya los bloques.
+
+// Clase form1 
+
+-Se crean las variables goLeft y goRight que son variables booleanas para el movimiento.
+-isGameOver es para cuando el juego ha terminado.
+-score muestra cuantos bloques que se han golpeado.
+-ballx y bally son las direcciones en x y en y.
+-playerSpeed es la velocidad del jugador.
+-rnd es un generador ramdom.
+-blockArrayes el arreglo de PictureBox para los bloques.
+
+// Constructor
+-Es para inicializar los componentes del formulario y luego llama a PlaceBlocks() para colocar los bloques en el formulario.
+
+// Métodos
+
+*setupGame
+-Es el método que inicializa los parametros del juego 
+-ball.Left = 376, ball.Top = 328 y player.Left = 347 posiciona la bola y el jugador
+-gameTimer.Start()comienza el temporizador del juego.
+-x.BackColor = Color.FromArgb(rnd.Next(256), rnd.Next(256), rnd.Next(256)) establece colores aleatorios para los bloques.
+
+*gameOver
+-isGameOver = true detiene el juego
+-gameTimer.Stop() detiene el temporizador
+-txtScore.Text = "Score:" + score + " " + message;muestra un mensaje de "Game Over".
+
+*PlaceBlocks
+-Este método crea y posiciona 15 bloques en el formulario y coloca los bloques se colocan en filas de 5.
+
+*removeBlocks
+-Elimina los bloques cuando la bola los toca.
+
+*mainGameTimerEvent
+-Maneja el temporizador del juego
+-Actualiza la posición del jugador y la bola cuando se da enter 
+-Actualiza el puntaje cuando se toca un bloque.
+
+*keyisdown y keyisup
+-Maneja para mover el jugador hacia la izquierda o derecha y reiniciar el juego cuando se presiona enter.
